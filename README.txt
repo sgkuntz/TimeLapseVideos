@@ -1,0 +1,1 @@
+Video compression (if not marked 'slow') is 30 min of development/second of video
